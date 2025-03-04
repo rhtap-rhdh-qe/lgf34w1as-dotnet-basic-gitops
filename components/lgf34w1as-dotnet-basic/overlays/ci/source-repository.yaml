@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lgf34w1as-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lgf34w1as-dotnet-basic
